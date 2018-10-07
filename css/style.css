@@ -42,6 +42,7 @@ div {
 
 .article {
   display: inline-block;
+  clear: both;
   float: left;
   width: 310px;
   min-height: 580px;
@@ -56,6 +57,7 @@ div {
 
 footer {
   display: inline-block;
+  clear: both;
   width: 976px;
   min-height: 60px;
   margin: 20px 0px;
